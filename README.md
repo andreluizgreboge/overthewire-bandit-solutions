@@ -118,11 +118,7 @@ This repository documents the technical rationale and solutions for the **Bandit
   ```
 * **Password:** `morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj`
 
----
 
-Seguindo o padrão, aqui está o bloco dos níveis 7 ao 12 pronto para o seu README.md. Usei a técnica de proteção para garantir que o conteúdo chegue intacto.
-
-Markdown
 ---
 
 ## Level 7 → 8: Searching Specific Strings
@@ -364,7 +360,6 @@ Markdown
 
 ---
 
----
 
 ## Level 25 → 26: Breaking Out of Restricted Shells
 
